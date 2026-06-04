@@ -12,7 +12,7 @@ const areas = [
   {
     icon: Brain,
     title: "Transtornos de Ansiedade",
-    desc: "Preocupação excessiva, ataques de pânico, fobias, ansiedade social — entendendo o que está por trás e desenvolvendo recursos internos.",
+    desc: "Preocupação excessiva, ataques de pânico, fobias, ansiedade social, entendendo o que está por trás e desenvolvendo recursos internos.",
   },
   {
     icon: Heart,
@@ -22,7 +22,7 @@ const areas = [
   {
     icon: Flower2,
     title: "Luto",
-    desc: "Perdas de todas as formas — pessoas, relacionamentos, fases da vida. Espaço para sentir, elaborar e seguir em frente.",
+    desc: "Perdas de todas as formas: pessoas, relacionamentos, fases da vida. Espaço para sentir, elaborar e seguir em frente.",
   },
   {
     icon: Star,
@@ -37,7 +37,7 @@ const areas = [
   {
     icon: Users,
     title: "Saúde da Mulher",
-    desc: "Questões relacionadas à feminilidade, ciclos de vida, maternidade, relacionamentos e corpo — com olhar sensível e específico.",
+    desc: "Questões relacionadas à feminilidade, ciclos de vida, maternidade, relacionamentos e corpo, com olhar sensível e específico.",
   },
 ];
 

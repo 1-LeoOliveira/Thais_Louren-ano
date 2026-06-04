@@ -29,7 +29,7 @@ export default function CTASection() {
             className="inline-flex items-center gap-3 bg-white text-rose-dark px-10 py-5 rounded-full font-semibold font-sans text-sm transition-all hover:bg-white/95 hover:-translate-y-1 hover:shadow-2xl"
           >
             <WhatsAppIcon className="w-5 h-5 text-green-500" />
-            Quero iniciar minha terapia
+            Quero iniciar minha psicoterapia
           </a>
         </AnimatedSection>
       </div>

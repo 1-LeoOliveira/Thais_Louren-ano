@@ -24,7 +24,7 @@ export default function BenefitsSection() {
               O que muda com o processo terapêutico
             </h2>
             <p className="font-body text-warm-stone text-lg leading-relaxed mb-10">
-              A terapia não é um conserto — é um processo de descoberta. No
+              A terapia não é um conserto, é um processo de descoberta. No
               nosso trabalho juntos, você começa a se ver com outros olhos e a
               agir de formas que fazem mais sentido para quem você realmente é.
             </p>
@@ -34,7 +34,7 @@ export default function BenefitsSection() {
               rel="noopener noreferrer"
               className="btn-rose"
             >
-              Quero essa transformação
+              Quero iniciar meu processo terapêutico
             </a>
           </AnimatedSection>
 

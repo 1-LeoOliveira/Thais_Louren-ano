@@ -44,10 +44,13 @@ export default function AboutSection() {
               </p>
               <p>
                 Minha escuta é{" "}
-                <strong className="text-slate">livre de julgamentos e rótulos</strong>.
-                Sou contra encaixotar as pessoas em diagnósticos precipitados —
-                cada história é única e merece ser compreendida na sua
-                complexidade.
+                <strong className="text-slate">acolhedora, ética e livre de julgamentos</strong>.
+                Acredito que cada pessoa vai muito além de um diagnóstico ou
+                rótulo. Por isso, evito conclusões precipitadas e busco
+                compreender cada história em sua singularidade, respeitando a
+                complexidade de suas vivências, emoções e contextos. Cada
+                trajetória merece ser ouvida com sensibilidade, profundidade e
+                respeito.
               </p>
               <p>
                 No espaço terapêutico, meu objetivo é que você se sinta

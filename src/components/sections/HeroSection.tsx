@@ -49,7 +49,7 @@ export default function HeroSection() {
             >
               <a href={WA_CONV} target="_blank" rel="noopener noreferrer" className="btn-rose">
                 <WhatsAppIcon className="w-4 h-4" />
-                Quero iniciar minha terapia
+                Quero iniciar minha psicoterapia
               </a>
               <a href="#sobre" className="btn-outline">
                 Conheça a Thais
