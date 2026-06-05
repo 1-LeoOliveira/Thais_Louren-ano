@@ -81,7 +81,7 @@ export default function HeroSection() {
               {/* Photo placeholder — substitua o src pela foto da Thais */}
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&q=80"
+                src="/foto-hero.jpg"
                 alt={`${NAME} — Psicóloga`}
                 className="relative w-full max-w-sm lg:max-w-md rounded-[2.5rem] object-cover shadow-2xl aspect-[3/4] object-top"
               />

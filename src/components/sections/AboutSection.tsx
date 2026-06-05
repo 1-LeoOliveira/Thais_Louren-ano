@@ -14,7 +14,7 @@ export default function AboutSection() {
               <div className="absolute -top-4 -left-4 w-full h-full rounded-[2.5rem] border-2 border-rose-muted/40" />
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=600&q=80"
+                src="/foto-sobre.jpg"
                 alt={`${NAME} — Psicóloga Clínica`}
                 className="relative rounded-[2.5rem] w-full object-cover shadow-xl aspect-[4/5] object-top"
               />
