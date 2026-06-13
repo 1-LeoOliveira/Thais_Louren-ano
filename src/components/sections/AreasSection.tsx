@@ -1,6 +1,4 @@
 import {
-  Brain,
-  Heart,
   Flower2,
   Star,
   Zap,
@@ -9,16 +7,6 @@ import {
 import AnimatedSection from "@/components/ui/AnimatedSection";
 
 const areas = [
-  {
-    icon: Brain,
-    title: "Transtornos de Ansiedade",
-    desc: "Preocupação excessiva, ataques de pânico, fobias, ansiedade social, entendendo o que está por trás e desenvolvendo recursos internos.",
-  },
-  {
-    icon: Heart,
-    title: "Transtornos Depressivos",
-    desc: "Um espaço para atravessar a tristeza profunda, o vazio e o desânimo com acolhimento e sem pressa.",
-  },
   {
     icon: Flower2,
     title: "Luto",
@@ -51,12 +39,14 @@ export default function AreasSection() {
             Questões que podemos trabalhar juntos
           </h2>
           <p className="font-body text-warm-stone leading-relaxed">
-            Cada pessoa chega com sua história única. Conheça as principais
-            áreas em que atuo com cuidado e dedicação.
+            Acompanhamento psicológico para pessoas que enfrentam ansiedade,
+            angústia, tristeza, conflitos emocionais, dificuldades relacionais
+            e outros sofrimentos psíquicos, a partir de uma escuta orientada
+            pela psicanálise.
           </p>
         </AnimatedSection>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="mx-auto grid max-w-5xl sm:grid-cols-2 lg:grid-cols-2 gap-6">
           {areas.map((a, i) => (
             <AnimatedSection key={i} delay={i * 80}>
               <div className="card h-full group">
